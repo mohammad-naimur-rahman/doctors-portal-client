@@ -1,0 +1,5 @@
+.main-nav li a,
+.main-nav li span {
+  text-shadow: 1px 1px white;
+  font-weight: bold;
+}
